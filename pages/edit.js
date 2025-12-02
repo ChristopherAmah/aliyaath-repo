@@ -647,7 +647,7 @@ const Edit = () => {
                             bullets: e.target.value,
                           })
                         }
-                        placeholder="Bullet One, Bullet Two, Bullet Three"
+                        placeholder="Bullet One, Bullet Two"
                         className="p-2 rounded-md shadow-lg border-2"
                         type="text"
                       ></input>
